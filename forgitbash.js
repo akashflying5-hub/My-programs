@@ -7,3 +7,4 @@ console.log(a+b); //addition
 console.log(a-b); //subraction
 console.log(a/b); //div
 console.log(axb); //modulus
+console.log(a%b);
